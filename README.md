@@ -1,6 +1,5 @@
 
-This is a local news website with functions like login, searching and multiple path within the website.
-
+## This is a local news website with functions like login, searching and multiple path within the website.
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
